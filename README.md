@@ -70,7 +70,7 @@ git clone https://github.com/Hukex/AceptaElReto.git
 
 
 ```bash
-javac *FileName*.java
+javac FileName.java
 ```
 
 It will create a .class file so Ascensor.java --> Ascensor.class
@@ -84,7 +84,7 @@ It will create a .class file so Ascensor.java --> Ascensor.class
 Now with the .class files just execute the .class you want with the next command 
 
 ```bash
-java *FileName*
+java FileName
 ```
 
 ***NOT ADD .CLASS***
