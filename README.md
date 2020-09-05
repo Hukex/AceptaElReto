@@ -76,6 +76,7 @@ javac *FileName*.java
 It will create a .class file so Ascensor.java --> Ascensor.class
 
 *Example*
+
 ![IMG](https://github.com/Hukex/AceptaElReto/blob/master/readmefiles/example.gif)
 
 # Usage📋
@@ -89,6 +90,7 @@ java *FileName*
 ***NOT ADD .CLASS***
 
 *Example*
+
 ![IMG](https://github.com/Hukex/AceptaElReto/blob/master/readmefiles/example2.gif)
 
 # Status⚪
